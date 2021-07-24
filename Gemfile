@@ -92,4 +92,5 @@ gem 'json', '~> 2.5', '>= 2.5.1'
 gem 'multiverse'
 
 gem 'rspec'
+gem 'rspec-rails'
 gem 'httparty'
